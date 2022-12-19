@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\semio\\Desktop\\HWSem9\\task64\\task64.csproj": {}
+    "C:\\Users\\semio\\Desktop\\HWSem9\\task68\\task68.csproj": {}
   },
   "projects": {
-    "C:\\Users\\semio\\Desktop\\HWSem9\\task64\\task64.csproj": {
+    "C:\\Users\\semio\\Desktop\\HWSem9\\task68\\task68.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\semio\\Desktop\\HWSem9\\task64\\task64.csproj",
-        "projectName": "task64",
-        "projectPath": "C:\\Users\\semio\\Desktop\\HWSem9\\task64\\task64.csproj",
+        "projectUniqueName": "C:\\Users\\semio\\Desktop\\HWSem9\\task68\\task68.csproj",
+        "projectName": "task68",
+        "projectPath": "C:\\Users\\semio\\Desktop\\HWSem9\\task68\\task68.csproj",
         "packagesPath": "C:\\Users\\semio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\semio\\Desktop\\HWSem9\\task64\\obj\\",
+        "outputPath": "C:\\Users\\semio\\Desktop\\HWSem9\\task68\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
